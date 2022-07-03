@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "lockingComputer" : 2255,
-=======
-  "lockingComputer" : 2244,
->>>>>>> bf90b82d41cf5d5f84df503ec163a1b0fd6702ce
+  "lockingComputer" : 2266,
   "timestamp" : 1656786790585,
   "state" : "IN_GAME_MENU"
 }
